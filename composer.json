@@ -1,0 +1,26 @@
+{
+    "name": "cuepay/whmcs",
+    "description": "Cuepay Payment Gateway Module for WHMCS",
+    "keywords": [
+        "whmcs",
+        "web host automation platform",
+        "hosting",
+        "cuepay",
+        "cuepay payment",
+        "cuepay payment gateway",
+        "cuepay gateway"
+    ],
+    "homepage": "https://www.cuepay.com/",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Cuepay Development Team",
+            "email": "support@cuepay.com",
+            "homepage": "https://cuepay.com",
+            "role": "Developer"
+        }
+    ],
+    "support": {
+        "email": "support@cuepay.com"
+    }
+}
