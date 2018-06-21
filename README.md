@@ -1,4 +1,4 @@
-# whmcs
+# WHMCS
 
 This Payment Gateway modules allow you to integrate cuepay with the WHMCS platform.
 
