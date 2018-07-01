@@ -109,7 +109,7 @@ function cuepay_link($params)
 
     foreach ($postfields as $k => $v)
     {
-        $htmlOutput .= '<input type="hidden" name="' . $k . '" value="' . urlencode($v) . '" />';
+        $htmlOutput .= '<input type="hidden" name="' . $k . '" value="' . $v . '" />';
     }
 
     $htmlOutput .= '<input type="submit" value="'.$params['langpaynow'].'" />';
